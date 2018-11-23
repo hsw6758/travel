@@ -18,34 +18,34 @@ export default {
       },
       swiperList: [{
         id: '0001',
-        imgUrl: require('./1.jpg')
+        imgUrl: require('./pic/1.jpg')
       },{
         id: '0002',
-        imgUrl: require('./2.jpg')
+        imgUrl: require('./pic/2.jpg')
       },{
         id: '0003',
-        imgUrl: require('./3.jpg')
+        imgUrl: require('./pic/3.jpg')
       },{
         id: '0004',
-        imgUrl: require('./4.jpg')
+        imgUrl: require('./pic/4.jpg')
       },{
         id: '0005',
-        imgUrl: require('./5.jpg')
+        imgUrl: require('./pic/5.jpg')
       },{
         id: '0006',
-        imgUrl: require('./6.jpg')
+        imgUrl: require('./pic/6.jpg')
       },{
         id: '0007',
-        imgUrl: require('./7.jpg')
+        imgUrl: require('./pic/7.jpg')
       },{
         id: '0008',
-        imgUrl: require('./8.jpg')
+        imgUrl: require('./pic/8.jpg')
       },{
         id: '0009',
-        imgUrl: require('./9.jpg')
+        imgUrl: require('./pic/9.jpg')
       },{
         id: '00010',
-        imgUrl: require('./10.jpg')
+        imgUrl: require('./pic/10.jpg')
       }]
     }
   }

@@ -20,43 +20,43 @@ export default {
     return {
       iconList: [{
         id: '0001',
-        imgUrl: require('./jingdian.png'),
+        imgUrl: require('./pic/jingdian.png'),
         desc: '景点门票'
       },{
         id: '0002',
-        imgUrl: require('./yiri.png'),
+        imgUrl: require('./pic/yiri.png'),
         desc: '一日游'
       },{
         id: '0003',
-        imgUrl: require('./biyou.png'),
+        imgUrl: require('./pic/biyou.png'),
         desc: '上海比游'
       },{
         id: '0004',
-        imgUrl: require('./haichang.png'),
+        imgUrl: require('./pic/haichang.png'),
         desc: '上海海昌'
       },{
         id: '0005',
-        imgUrl: require('./wenquan.png'),
+        imgUrl: require('./pic/wenquan.png'),
         desc: '泡温泉'
       },{
         id: '0006',
-        imgUrl: require('./shengdi.png'),
+        imgUrl: require('./pic/shengdi.png'),
         desc: '打卡圣地'
       },{
         id: '0007',
-        imgUrl: require('./huanle.png'),
+        imgUrl: require('./pic/huanle.png'),
         desc: '上海欢乐谷'
       },{
         id: '0008',
-        imgUrl: require('./dong.png'),
+        imgUrl: require('./pic/dong.png'),
         desc: '野生动物园'
       },{
         id: '0009',
-        imgUrl: require('./dishini.png'),
+        imgUrl: require('./pic/dishini.png'),
         desc: '上海迪士尼'
       },{
         id: '00010',
-        imgUrl: require('./quan.png'),
+        imgUrl: require('./pic/quan.png'),
         desc: '全部玩乐'
       }]
     }
